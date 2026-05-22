@@ -26,7 +26,7 @@ employee-reporting-db/
 1. Clone this repository:
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/rishirbagal-cyber/PE4.11-Index-Order-Matters
 cd employee-reporting-db
 ```
 
